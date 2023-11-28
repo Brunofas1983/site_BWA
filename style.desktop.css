@@ -492,6 +492,10 @@ section {
     padding: 70px 0;
 }
 
+.faq-branco p {
+    padding: 0 550px;
+}
+
 .faq-branco h6 {
     color: #d2691e;
     font-size: 22px;
@@ -500,6 +504,7 @@ section {
 #faq .faq-branco h1 {
     color: #03051d;
     font-size: 45px;
+    padding: 0 350px;
 }
 
 #acordion {

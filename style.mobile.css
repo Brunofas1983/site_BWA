@@ -12,7 +12,7 @@ html, body {
 }
 
 #vantagens h1 {
-    padding: 0;
+    padding: 0 8px;
 }
 
 .cards p {
@@ -316,6 +316,14 @@ section {
     padding-top: 50px;
 }
 
+#faq .faq-branco h1 {
+    padding: 0 6px;
+}
+
+.faq-branco p {
+    padding: 0 10px;
+}
+
 .rodape-logo {
     text-align: center;
 }
@@ -340,7 +348,19 @@ section {
 
 #rodape h2 {
     width: 40%;
-    margin-left: 120px;
+    margin-left: 105px;
+}
+
+.lista-rodape-mobile .lista-navecacao li {
+    margin: 0 70px;
+}
+
+#rodape .logo {
+    margin-left: 0;
+}
+
+.coluna-rodape-listas .lista-navecacao {
+    margin-top: 30px;
 }
 
 }
